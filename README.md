@@ -1,2 +1,2 @@
 # laboratorio9programacionIII
-Laboratorio 9 programacion III
+Laboratorio 9 programacion III Jose Jimenez Usando rele 
